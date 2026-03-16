@@ -1,4 +1,4 @@
-# Create dict (Mate Academy Task)
+# Create dict - Mate Academy Task 🖐
 
 You already know, that not all data types can be used as a keys
 in dictionary in Python. But someone, who pass arguments to function
